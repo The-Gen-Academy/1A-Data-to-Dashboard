@@ -1,0 +1,1 @@
+- [Streamlit proxy routing](streamlit-proxy-routing.md) — Streamlit must run at `/` root, not a sub-path; `baseUrlPath` breaks `_stcore` API endpoints behind Replit's proxy.
